@@ -1,2 +1,2 @@
 # csv-read-write-example
-Example code that reads and writes csv-files
+Example code that reads and writes csv-files using Qt
